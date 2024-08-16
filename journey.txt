@@ -1,1 +1,3 @@
-I have enjoyed becoming familiar with Visual Studio Code
+I have enjoyed becoming familiar with VS Code
+
+author: ChristianCurtis06
